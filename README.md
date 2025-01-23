@@ -1,1 +1,1 @@
-# A repository is essentially a directory, or storage space, where your project's code and its metadata are stored. A repository tracks and saves the history of all your changes, allowing you to record modifications, branch out to try new ideas, and revert back if needed. In Git (a popular version control system), the repository is where all your project's files, commit history, and branches are kept.
+# A repository is essentially a directory, or storage space, where your project's code and its metadata are stored.
